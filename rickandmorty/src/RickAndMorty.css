@@ -1,0 +1,4 @@
+.Card{
+    border: 5px solid black;
+    flex-wrap: wrap;
+}
